@@ -2486,7 +2486,7 @@ You should remove them from the project.</source>
     <message>
         <location line="+5"/>
         <source>Unable to interpret the project file.</source>
-        <translation>Не удалось интерпритировать файл проекта.</translation>
+        <translation>Не удалось интерпретировать файл проекта.</translation>
     </message>
 </context>
 <context>
